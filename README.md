@@ -28,6 +28,7 @@ b.      modify this to show stats by neighborhood & price-tier; how do sales <$3
 6.       Can you visualize YoY sales-growth by neighborhood (or ZIP code) on a map? How would you add the element of time to this map?
  
 Advanced (requires joining the DOF rolling sales w/ the Dept. of City Planning’s PLUTO dataset)
+
 1.       What does the distribution of sale-price look like for 2014 sales of residential properties having more than 6 floors?
 2.       What is the total OfficeArea sold in 2014?
 3.       Build an interactive map showing median 2014 sale-price by neighborhood and/or ZIP-code for residential properties < $15M. Clicking on a neighborhood or ZIP will render a timeseries plot of monthly total sale-value for that polygon. It would be great to be able to see a finer-grained density of sales (as points or polygons) for the individual properties sold.

@@ -1,5 +1,7 @@
 # twosigmaquestion
 2sigmaDataChallenge
+
+
 1.rolling sale excel sheet for each Borough in to a folder. For example, the rolling sales for 2015 is in a folder named "2015Detial". 
 Excel sheets in 2015 is from http://www1.nyc.gov/site/finance/taxes/property-rolling-sales-data.page. The rest years are from http://www1.nyc.gov/site/finance/taxes/property-annualized-sales-update.page 
 
